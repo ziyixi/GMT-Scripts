@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "gmt-scripts"
+name = "gmtscripts"
 version = "0.1.0"
 description = ""
 authors = ["ziyixi <ziyixi@mail.ustc.edu.cn>"]
